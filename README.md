@@ -24,7 +24,8 @@ Welcome to my Data Analytics Project Portfolio! This repository showcases my pro
 - Identified the top-selling products and peak sales periods.
 - Recommended adjustments to inventory levels based on sales trends.
 
-[View SQL Script](link-to-sales-data-analysis-sql-script) | [View PostgreSQL Script](link-to-sales-data-analysis-postgresql-script)
+[View SQL Script](link-to-sales-data-analysis-sql-script) | [View PostgreSQL Script](link-to-sales-data-analysis-postgresql-script) |
+[View Notebook on Google Colab](https://colab.research.google.com/github/mesfin-2/DataAnalystPortfolioProjects/blob/main/covidDeaths-2.ipynb)
 
 ### Project 2: Customer Segmentation
 ![Customer Segmentation](path/to/customer-segmentation-screenshot.png)
